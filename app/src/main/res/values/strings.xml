@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ma Thidar</string>
+    <string name="WorkerName">Worker Name</string>
+    <string name="Number">Number</string>
+    <string name="Atone">အတုံး</string>
+
+    <string-array name="workerNames">
+        <item>ဒေါ်စန်း</item>
+        <item>မသူဇာ</item>
+        <item>မစန္ဒာ</item>
+        <item>ထိုက်ထိုက်</item>
+        <item>ငြိမ်းငြိမ်း</item>
+        <item>ခင်ဦး</item>
+        <item>အိုးမ</item>
+    </string-array>
+</resources>
